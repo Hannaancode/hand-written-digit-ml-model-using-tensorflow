@@ -1,0 +1,1 @@
+This project demonstrates the process of training a neural network to classify handwritten digits using the MNIST dataset. The model is implemented using TensorFlow and Keras, and it performs image classification to recognize digits (0-9) from grayscale images of size 28x28 pixels.
